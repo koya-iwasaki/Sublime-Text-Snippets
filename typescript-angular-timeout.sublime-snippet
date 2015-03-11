@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+this.\$timeout(() => {
+	$1
+}${3:, ${2:0}, false});$0
+]]></content>
+  <tabTrigger>tatimeout</tabTrigger>
+  <scope>source.js</scope>
+  <description>Typescript angular timeout</description>
+</snippet>
