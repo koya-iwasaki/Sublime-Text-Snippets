@@ -1,10 +1,14 @@
 <snippet>
   <content><![CDATA[
-setTimeout(function(){
-	$1
-}${3:, ${2:0}});$0
+if ($1) {
+	$2
+} else if ($3) {
+	$4
+} else {
+	$5
+}$0
 ]]></content>
-  <tabTrigger>settimeout</tabTrigger>
+  <tabTrigger>ifelseif</tabTrigger>
   <scope>source.js</scope>
   <description>My Snippet</description>
 </snippet>
