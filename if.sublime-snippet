@@ -6,5 +6,5 @@ if ($1) {
 ]]></content>
   <tabTrigger>if</tabTrigger>
   <scope>source.js</scope>
-  <description>My Snippet</description>
+  <description>Ko JS</description>
 </snippet>

@@ -6,5 +6,5 @@ this.\$timeout(() => {
 ]]></content>
   <tabTrigger>tatimeout</tabTrigger>
   <scope>source.js</scope>
-  <description>My Snippet</description>
+  <description>Ko TypeScript</description>
 </snippet>

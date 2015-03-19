@@ -1,14 +1,8 @@
 <snippet>
   <content><![CDATA[
-if ($1) {
-	$2
-} else if ($3) {
-	$4
-} else {
-	$5
-}$0
+return $1;$0
 ]]></content>
-  <tabTrigger>ifelseif</tabTrigger>
+  <tabTrigger>return</tabTrigger>
   <scope>source.js</scope>
   <description>Ko JS</description>
 </snippet>
