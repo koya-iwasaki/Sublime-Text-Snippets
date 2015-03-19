@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+scope.\$watch(${1:function () \{
+	$2
+\}}, function (${3:value}) {
+	$4
+});$0
+]]></content>
+  <tabTrigger>watch</tabTrigger>
+  <scope>source.js</scope>
+  <description>Ko TypeScript</description>
+</snippet>
