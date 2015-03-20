@@ -1,12 +1,10 @@
 <snippet>
   <content><![CDATA[
-scope.\$watch(${1:function () \{
-	$2
-\}}, function (${3:value}) {
-	$4
+scope.\$apply(() => {
+	$1
 });$0
 ]]></content>
-  <tabTrigger>watch</tabTrigger>
+  <tabTrigger>taapply</tabTrigger>
   <scope>source.js</scope>
   <description>Ko TypeScript</description>
 </snippet>
