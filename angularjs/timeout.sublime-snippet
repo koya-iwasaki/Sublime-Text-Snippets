@@ -1,10 +1,10 @@
 <snippet>
   <content><![CDATA[
-this.\$timeout(() => {
+\$timeout(function () {
 	$3
 }${2:, ${1:0}, false});$0
 ]]></content>
-  <tabTrigger>tatimeout</tabTrigger>
+  <tabTrigger>timeout</tabTrigger>
   <scope>source.js</scope>
-  <description>Ko TypeScript</description>
+  <description>Ko AngularJS</description>
 </snippet>
