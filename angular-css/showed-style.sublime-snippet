@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+@include showed-style {
+	$1
+}$0
+]]></content>
+  <tabTrigger>showed-style</tabTrigger>
+  <scope>source.scss</scope>
+  <description>Ko SCSS</description>
+</snippet>
