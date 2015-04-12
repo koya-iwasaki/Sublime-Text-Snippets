@@ -1,12 +1,10 @@
 <snippet>
   <content><![CDATA[
-${1:\$}scope.\$watch(${2:function () \{
+${1:\$}scope.\$on('$2', function (event, data) {
 	$3
-\}}, function (${4:value}) {
-	$5
 });$0
 ]]></content>
-  <tabTrigger>watch</tabTrigger>
+  <tabTrigger>angular on</tabTrigger>
   <scope>source.js</scope>
   <description>Ko AngularJS</description>
 </snippet>

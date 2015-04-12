@@ -2,7 +2,7 @@
   <content><![CDATA[
 console.dir($1);$0
 ]]></content>
-  <tabTrigger>consoledir</tabTrigger>
+  <tabTrigger>console dir</tabTrigger>
   <scope>source.js</scope>
   <description>Ko JS</description>
 </snippet>
