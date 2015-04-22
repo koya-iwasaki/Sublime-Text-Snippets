@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+\$animate.removeClass(${1:element}, '${2:className}')${3:.then(function () \{
+	$4
+\})};$0
+]]></content>
+  <tabTrigger>angular removeclass</tabTrigger>
+  <scope>source.js</scope>
+  <description>Ko AngularJS</description>
+</snippet>

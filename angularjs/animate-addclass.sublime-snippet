@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+\$animate.addClass(${1:element}, '${2:className}')${3:.then(function () \{
+	$4
+\})};$0
+]]></content>
+  <tabTrigger>angular addclass</tabTrigger>
+  <scope>source.js</scope>
+  <description>Ko AngularJS</description>
+</snippet>
