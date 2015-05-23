@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+if (typeof ${1:variable} === 'undefined') {
+	${1:variable} = ${2:false};
+}$0
+]]></content>
+  <tabTrigger>undefind</tabTrigger>
+  <scope>source.js</scope>
+  <description>Ko JS</description>
+</snippet>
