@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$timeout.cancel(${1:promise});$0
+]]></content>
+  <tabTrigger>timeout.cancel</tabTrigger>
+  <scope>source.js</scope>
+  <description>Ko AngularJS</description>
+</snippet>
