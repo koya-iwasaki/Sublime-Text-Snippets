@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$.extend(true, ${1:\{\}}, ${2:object})$0
+]]></content>
+  <tabTrigger>deep copy</tabTrigger>
+  <scope>source.js</scope>
+  <description>Ko jQuery</description>
+</snippet>
