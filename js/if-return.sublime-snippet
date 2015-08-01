@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+if ($1) return;$0
+]]></content>
+  <tabTrigger>if return</tabTrigger>
+  <scope>source.js</scope>
+  <description>Ko JS</description>
+</snippet>
