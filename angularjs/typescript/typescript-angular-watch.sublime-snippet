@@ -7,6 +7,6 @@ scope.\$watch(${1:() => \{
 });$0
 ]]></content>
   <tabTrigger>tawatch</tabTrigger>
-  <scope>source.js</scope>
-  <description>Ko TypeScript</description>
+  <scope>source.ts</scope>
+  <description>Ko AngularJS (TypeScript)</description>
 </snippet>
