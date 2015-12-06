@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+&:nth-child(${1:2n+1}) {
+	$2
+}$0
+]]></content>
+  <tabTrigger>nth-child</tabTrigger>
+  <scope>source.scss</scope>
+  <description>Ko SCSS</description>
+</snippet>

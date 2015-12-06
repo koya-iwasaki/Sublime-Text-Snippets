@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+&:last-child {
+	$1
+}$0
+]]></content>
+  <tabTrigger>last-child</tabTrigger>
+  <scope>source.scss</scope>
+  <description>Ko SCSS</description>
+</snippet>
