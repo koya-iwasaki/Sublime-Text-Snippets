@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+setTimeout(() => {
+	$3
+}${2:, ${1:0}});$0
+]]></content>
+  <tabTrigger>t settimeout</tabTrigger>
+  <scope>source.js, source.ts</scope>
+  <description>Ko JS</description>
+</snippet>
