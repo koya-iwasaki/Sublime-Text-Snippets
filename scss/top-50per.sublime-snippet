@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+top: 50%;$0
+]]></content>
+  <tabTrigger>top: 50%</tabTrigger>
+  <scope>source.scss</scope>
+  <description>Ko SCSS</description>
+</snippet>
